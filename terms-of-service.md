@@ -1,3 +1,84 @@
+# RepPlate Terms of Use · 食练记使用条款
+
+[English](#english) · [中文](#中文)
+
+---
+
+## English
+
+**Effective date: 2026-10-09**  
+**Developer: Oakley (RepPlate / 食练记)**
+
+By downloading, installing or using RepPlate ("the app") you agree to these terms. If you do not agree, do not use the app.
+
+### 1. The service
+
+RepPlate is a food and training log. It offers:
+
+- Recipe management and shopping lists
+- Meal calorie and macro logging, water logging
+- Workout plans and logs, body measurements and weight
+- Optional AI analysis (estimates provided through the DeepSeek API)
+- An optional subscription that unlocks more features
+
+The app does not provide medical, nutritional or professional fitness advice. All AI output is an estimate and is not medical or professional guidance.
+
+### 2. Purchases and subscriptions
+
+- Subscriptions are purchased through the Apple App Store. Apple processes payments and receipts; the developer never sees your card details.
+- Subscriptions renew automatically and are charged within 24 hours before the end of the current period, unless auto-renew is turned off at least 24 hours before the period ends in your Apple Account settings.
+- Any unused portion of a free trial (if offered) is forfeited when you purchase a subscription.
+- Refunds, downgrades and cancellations are handled by Apple; the developer cannot change your subscription payments directly.
+
+### 3. Pro features
+
+Free: on-device food, training and body logs, basic statistics, a daily allowance of recipe imports and a limited number of AI trials.
+
+Pro: unlimited AI recipe recognition, photo meal logging, AI workout recaps, AI training plans and other advanced AI features. The paywall in the app shows the current benefits, which may change between versions.
+
+Logs created while subscribed are not deleted when a subscription ends; advanced AI features return to the free allowance.
+
+### 4. Your content
+
+- Recipes, logs, photos and other data are stored on your device, and you are responsible for keeping them.
+- You can export a backup in Settings. Backups contain personal data; keep them private.
+- You must ensure that content you submit to AI features (images, text) does not infringe anyone's rights and is not unlawful or inappropriate.
+
+### 5. Third-party services
+
+- **DeepSeek**: content you submit to AI features is sent to the DeepSeek API (operated from China) and handled under its terms.
+- **Open Food Facts**: search keywords for packaged foods are sent to this public service.
+- **Apple HealthKit**: workout data is read only after you grant permission, for on-device analysis. The app never writes to HealthKit.
+
+The developer does not control the availability or policies of third-party services.
+
+### 6. Disclaimer
+
+- AI estimates can be wrong. Consult a qualified professional for decisions about diet, training or health. To the extent permitted by law, the developer is not liable for consequences of relying on AI output.
+- Data may be lost through system updates, device failure, accidental deletion or sync failure. Export backups regularly.
+- To the maximum extent permitted by applicable law, the app is provided "as is" without warranties of any kind, express or implied, including merchantability and fitness for a particular purpose. Nothing in these terms limits rights you have under consumer protection laws that cannot be excluded.
+
+### 7. Age
+
+The app is not directed to children under 13. If you believe a child has provided data, contact us.
+
+### 8. Termination
+
+You can delete the app at any time; subscriptions must be cancelled separately in your Apple Account. The developer may restrict AI features for serious breaches of these terms (your on-device data is never deleted).
+
+### 9. Changes
+
+When these terms change, the effective date above is updated. Significant changes will be highlighted in the app or in release notes where possible. Continuing to use the app means you accept the updated terms.
+
+### 10. Contact
+
+Email: **3038816821@qq.com**  
+Or open a [GitHub issue](https://github.com/OceanHu123/RepPlate-legal/issues).
+
+---
+
+## 中文
+
 # 食练记（RepPlate）使用条款
 
 **生效日期：2026-09-02**  

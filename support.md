@@ -1,3 +1,48 @@
+# RepPlate · Support · 支持
+
+[English](#english) · [中文](#中文)
+
+---
+
+## English
+
+**RepPlate** is an iOS app for logging meals and workouts.
+
+### Contact
+
+- **Feedback email**: 3038816821@qq.com
+- **GitHub Issues**: https://github.com/OceanHu123/RepPlate-legal/issues
+
+In the app: **Settings → About → Feedback** (pre-fills your app version and device).
+
+### FAQ
+
+**How do I back up my data?**  
+**Settings → Data backup → Export backup.** On a new phone, use **Import backup** on the same screen, then fully quit and reopen the app.
+
+**How do I cancel Pro?**  
+In iPhone **Settings → [your name] → Subscriptions**, or in the app under **Settings → Membership → Manage subscription** (version 1.1 and later). The developer cannot cancel or refund subscriptions directly.
+
+**How do I restore purchases?**  
+**Settings → Membership → Restore purchases**, or **Restore purchases** on the Pro screen.
+
+**AI features aren't working?**  
+1. Check your network connection.  
+2. Free users get 3 advanced AI trials and 10 recipe imports per day.  
+3. Pro unlocks unlimited AI features.
+
+**Apple Health**  
+RepPlate only **reads** workout duration and active calories you authorize, for training recaps. It never writes to or changes your Health data.
+
+### Legal
+
+- [Privacy policy](privacy-policy.md)
+- [Terms of use](terms-of-service.md)
+
+---
+
+## 中文
+
 # RepPlate食练记 · 支持
 
 **RepPlate / 食练记** 是一款 iOS 饮食与训练记录 App。
